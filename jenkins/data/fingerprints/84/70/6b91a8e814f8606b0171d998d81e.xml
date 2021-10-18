@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-10-18 03:16:31.363 UTC</timestamp>
+  <original>
+    <name>cotacao-teste/br.com:cotacao</name>
+    <number>30</number>
+  </original>
+  <md5sum>84706b91a8e814f8606b0171d998d81e</md5sum>
+  <fileName>br.com:cotacao-0.0.1-SNAPSHOT.jar</fileName>
+  <usages>
+    <entry>
+      <string>cotacao-teste/br.com:cotacao</string>
+      <ranges>30</ranges>
+    </entry>
+    <entry>
+      <string>cotacao-teste</string>
+      <ranges>30</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

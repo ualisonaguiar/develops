@@ -10,11 +10,11 @@
   <usages>
     <entry>
       <string>cotacao-teste/br.com:cotacao</string>
-      <ranges>11-13</ranges>
+      <ranges>11-25</ranges>
     </entry>
     <entry>
       <string>cotacao-teste</string>
-      <ranges>11-13</ranges>
+      <ranges>11-25</ranges>
     </entry>
   </usages>
   <facets/>

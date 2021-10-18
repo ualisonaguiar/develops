@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-10-18 03:04:42.309 UTC</timestamp>
+  <original>
+    <name>cotacao-teste/br.com:cotacao</name>
+    <number>26</number>
+  </original>
+  <md5sum>344b355010e9ea9c62b773c54bc3dcc9</md5sum>
+  <fileName>br.com:cotacao:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>cotacao-teste/br.com:cotacao</string>
+      <ranges>26-34</ranges>
+    </entry>
+    <entry>
+      <string>cotacao-teste</string>
+      <ranges>26-34</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

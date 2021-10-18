@@ -11,3 +11,22 @@ services:
       - "8080:8080"
       - "5000:5000"
       - "50000:50000"
+    networks:
+      - network_devlops      
+
+  sonarqube:
+    build:
+      context: sonarqube
+      dockerfile: Dockerfile  
+    ports:
+      - "9000:9000"
+    networks:
+      - network_devlops
+    volumes:
+      - ./sonarqube/data:/opt/sonarqube/data
+      - ./sonarqube/extensions:/opt/sonarqube/extensions      
+
+#criacao da rede
+networks:
+  network_devlops:
+     driver: bridge

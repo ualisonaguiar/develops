@@ -63,6 +63,14 @@
       <type>jar</type>
     </dependency>
     <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.13.1</version>
+      <plugin>false</plugin>
+      <scope>test</scope>
+      <type>jar</type>
+    </dependency>
+    <dependency>
       <groupId>io.opentracing.contrib</groupId>
       <artifactId>opentracing-spring-cloud-starter</artifactId>
       <version>0.0.7</version>
@@ -106,14 +114,6 @@
       <version>5.5.2</version>
       <plugin>false</plugin>
       <scope>compile</scope>
-      <type>jar</type>
-    </dependency>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>4.12</version>
-      <plugin>false</plugin>
-      <scope>test</scope>
       <type>jar</type>
     </dependency>
     <dependency>

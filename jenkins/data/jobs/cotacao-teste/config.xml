@@ -23,7 +23,7 @@
     </userRemoteConfigs>
     <branches>
       <hudson.plugins.git.BranchSpec>
-        <name>*/master</name>
+        <name>*/1.0</name>
       </hudson.plugins.git.BranchSpec>
     </branches>
     <doGenerateSubmoduleConfigurations>false</doGenerateSubmoduleConfigurations>
@@ -40,7 +40,7 @@
     <groupId>br.com</groupId>
     <artifactId>cotacao</artifactId>
   </rootModule>
-  <goals>clean test</goals>
+  <goals>clean test package</goals>
   <aggregatorStyleBuild>true</aggregatorStyleBuild>
   <incrementalBuild>false</incrementalBuild>
   <ignoreUpstremChanges>false</ignoreUpstremChanges>
@@ -92,7 +92,16 @@
   </publishers>
   <buildWrappers/>
   <prebuilders/>
-  <postbuilders/>
+  <postbuilders>
+    <hudson.plugins.sonar.SonarRunnerBuilder plugin="sonar@2.13.1">
+      <project></project>
+      <properties></properties>
+      <javaOpts></javaOpts>
+      <additionalArguments></additionalArguments>
+      <jdk>(Inherit From Job)</jdk>
+      <task></task>
+    </hudson.plugins.sonar.SonarRunnerBuilder>
+  </postbuilders>
   <runPostStepsIfResult>
     <name>FAILURE</name>
     <ordinal>2</ordinal>

@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-10-18 03:05:08.49 UTC</timestamp>
+  <md5sum>83d91f209ddcb104776fa41c448c7ee2</md5sum>
+  <fileName>junit:junit-4.13.1.jar</fileName>
+  <usages>
+    <entry>
+      <string>cotacao-teste/br.com:cotacao</string>
+      <ranges>26-34</ranges>
+    </entry>
+    <entry>
+      <string>cotacao-teste</string>
+      <ranges>26-34</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
