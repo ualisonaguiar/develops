@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-10-17 12:57:19.652 UTC</timestamp>
+  <md5sum>56e73d41c971ca471d648760eb139fb6</md5sum>
+  <fileName>io.opentracing.contrib:opentracing-concurrent-0.0.2.jar</fileName>
+  <usages>
+    <entry>
+      <string>cotacao-teste/br.com:cotacao</string>
+      <ranges>2-13</ranges>
+    </entry>
+    <entry>
+      <string>cotacao-teste</string>
+      <ranges>2-13</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

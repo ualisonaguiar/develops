@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-10-17 12:57:25.256 UTC</timestamp>
+  <md5sum>ef7f69bc706d5282f777fe04b54abbd6</md5sum>
+  <fileName>org.apache.tomcat.embed:tomcat-embed-el-9.0.33.jar</fileName>
+  <usages>
+    <entry>
+      <string>cotacao-teste/br.com:cotacao</string>
+      <ranges>2-13</ranges>
+    </entry>
+    <entry>
+      <string>cotacao-teste</string>
+      <ranges>2-13</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

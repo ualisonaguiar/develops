@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-10-17 12:57:23.436 UTC</timestamp>
+  <md5sum>64f7a68f931aed8e5ad8243470440f0b</md5sum>
+  <fileName>ch.qos.logback:logback-classic-1.2.3.jar</fileName>
+  <usages>
+    <entry>
+      <string>cotacao-teste/br.com:cotacao</string>
+      <ranges>2-13</ranges>
+    </entry>
+    <entry>
+      <string>cotacao-teste</string>
+      <ranges>2-13</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

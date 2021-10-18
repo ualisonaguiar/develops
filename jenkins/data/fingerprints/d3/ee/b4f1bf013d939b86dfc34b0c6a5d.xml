@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-10-17 12:57:26.748 UTC</timestamp>
+  <md5sum>d3eeb4f1bf013d939b86dfc34b0c6a5d</md5sum>
+  <fileName>org.hibernate.validator:hibernate-validator-6.0.18.Final.jar</fileName>
+  <usages>
+    <entry>
+      <string>cotacao-teste/br.com:cotacao</string>
+      <ranges>2-13</ranges>
+    </entry>
+    <entry>
+      <string>cotacao-teste</string>
+      <ranges>2-13</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

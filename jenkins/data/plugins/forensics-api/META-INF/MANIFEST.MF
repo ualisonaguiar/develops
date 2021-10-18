@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: hafner
+Build-Jdk: 11.0.11
+Extension-Name: forensics-api
+Specification-Title: Defines an API for Jenkins to mine and analyze da
+ ta from a source code repository.
+Implementation-Title: forensics-api
+Implementation-Version: 1.5.0
+Group-Id: io.jenkins.plugins
+Short-Name: forensics-api
+Long-Name: Forensics API Plugin
+Url: https://github.com/jenkinsci/forensics-api-plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.5.0
+Hudson-Version: 2.263.1
+Jenkins-Version: 2.263.1
+Plugin-Dependencies: bootstrap5-api:5.1.1-1,data-tables-api:1.11.3-1,e
+ charts-api:5.2.1-2,font-awesome-api:5.15.4-1,jquery3-api:3.6.0-2,plug
+ in-util-api:2.5.0,workflow-api:2.46,workflow-cps:2.93,workflow-job:2.
+ 41,workflow-multibranch:2.24,branch-api:2.6.2
+Plugin-Developers: Ullrich Hafner:uhafner:ullrich.hafner@gmail.com
+Plugin-License-Name: MIT license
+Plugin-ScmUrl: https://github.com/jenkinsci/forensics-api-plugin
+

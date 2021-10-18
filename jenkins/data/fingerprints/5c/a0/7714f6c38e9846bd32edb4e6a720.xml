@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-10-17 22:47:06.103 UTC</timestamp>
+  <md5sum>5ca07714f6c38e9846bd32edb4e6a720</md5sum>
+  <fileName>Credential id=github-ualison name=ualisonaguiar/******</fileName>
+  <usages>
+    <entry>
+      <string>cotacao-teste</string>
+      <ranges>4-13</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-10-17 12:57:32.89 UTC</timestamp>
+  <md5sum>e21f9f767cfef13ed0d6c9acac97aa8d</md5sum>
+  <fileName>org.springframework.boot:spring-boot-starter-json-2.2.6.RELEASE.jar</fileName>
+  <usages>
+    <entry>
+      <string>cotacao-teste/br.com:cotacao</string>
+      <ranges>2-13</ranges>
+    </entry>
+    <entry>
+      <string>cotacao-teste</string>
+      <ranges>2-13</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

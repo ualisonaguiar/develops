@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-10-17 12:57:27.28 UTC</timestamp>
+  <md5sum>3ecaf166c1300915b7efa8de5fde9027</md5sum>
+  <fileName>com.fasterxml.jackson.datatype:jackson-datatype-jsr310-2.10.3.jar</fileName>
+  <usages>
+    <entry>
+      <string>cotacao-teste/br.com:cotacao</string>
+      <ranges>2-13</ranges>
+    </entry>
+    <entry>
+      <string>cotacao-teste</string>
+      <ranges>2-13</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
